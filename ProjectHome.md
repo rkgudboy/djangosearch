@@ -1,0 +1,1 @@
+This project is no longer under active development. If you're looking for a django full text search application that works with multiple search engines, check out [haystack](http://haystacksearch.org/). If you're looking for something specific to Solr, you might want to try [solango](http://code.google.com/p/django-solr-search/).
